@@ -2,6 +2,12 @@
 
 API REST de estudo e como base inicial para projetos .NET, com CRUD de produtos e arquitetura em camadas inspirada em DDD.
 
+## Sobre este projeto
+
+Este repositório é um guia prático e uma base inicial para criar projetos em .NET. Ele fornece uma estrutura mínima, exemplos e convenções que ajudam a começar rapidamente e a padronizar novos projetos.
+
+Guia completo e referência: [Guia Prático Criando uma API .NET](https://brainy-ghoul-212.notion.site/Guia-Pr-tico-Criando-uma-API-NET-3e3428c2d33280b8a91fdc89715e1cf4)
+
 ## Objetivo
 
 Este projeto foi desenvolvido como uma base prática para estudos de .NET e como ponto de partida para futuros projetos. A solução mantém um escopo pequeno, mas organiza responsabilidades e dependências de forma que possa evoluir com o crescimento da aplicação.
