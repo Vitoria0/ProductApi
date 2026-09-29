@@ -6,7 +6,7 @@ API REST de estudo e como base inicial para projetos .NET, com CRUD de produtos 
 
 Este repositório é um guia prático e uma base inicial para criar projetos em .NET. Ele fornece uma estrutura mínima, exemplos e convenções que ajudam a começar rapidamente e a padronizar novos projetos.
 
-Guia completo e referência: [Guia Prático Criando uma API .NET]([https://brainy-ghoul-212.notion.site/Guia-Pr-tico-Criando-uma-API-NET-3e3428c2d33280b8a91fdc89715e1cf4](https://medium.com/@vitmachadov/guia-pr%C3%A1tico-criando-uma-api-asp-net-core-10395c5e3022?postPublishedType=initial))
+Guia completo e referência: [Guia Prático Criando uma API .NET](https://brainy-ghoul-212.notion.site/Guia-Pr-tico-Criando-uma-API-NET-3e3428c2d33280b8a91fdc89715e1cf4](https://medium.com/@vitmachadov/guia-pr%C3%A1tico-criando-uma-api-asp-net-core-10395c5e3022?postPublishedType=initial))
 
 ## Objetivo
 
